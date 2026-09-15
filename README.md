@@ -1,6 +1,8 @@
 # クニマスター（KuniMaster）
 
-**▶ 今すぐ遊ぶ：https://ketrketr2.github.io/kuni-master/**　（スマホのブラウザで開く。「ホーム画面に追加」でアプリとして動く）
+### ▶ [今すぐ遊ぶ（ketrketr2.github.io/kuni-master）](https://ketrketr2.github.io/kuni-master/)
+
+スマホのブラウザで開くだけ。「ホーム画面に追加」するとアプリとして動く。
 
 別々のスマホで同時に遊べる、国名当てクイズ。国旗・首都・サッカー選手・クラブ・代表の強さから国を当てる。サーバー不要（WebRTCでスマホ同士が直接つながる）、インストール不要（PWA）、GitHub Pagesにそのまま置ける。
 
