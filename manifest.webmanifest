@@ -1,0 +1,17 @@
+{
+  "name": "クニマスター — 国名当てクイズ",
+  "short_name": "クニマスター",
+  "description": "別々のスマホで同時に遊べる国名当てクイズ。サッカー図鑑つき。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a2c21",
+  "theme_color": "#0a2c21",
+  "lang": "ja",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
